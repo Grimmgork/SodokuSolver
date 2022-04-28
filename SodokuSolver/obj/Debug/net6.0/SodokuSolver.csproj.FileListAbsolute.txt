@@ -1,0 +1,15 @@
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\bin\Debug\net6.0\SodokuSolver.exe
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\bin\Debug\net6.0\SodokuSolver.deps.json
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\bin\Debug\net6.0\SodokuSolver.runtimeconfig.json
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\bin\Debug\net6.0\SodokuSolver.dll
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\bin\Debug\net6.0\SodokuSolver.pdb
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.csproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.AssemblyInfo.cs
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.dll
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\refint\SodokuSolver.dll
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.pdb
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\SodokuSolver.genruntimeconfig.cache
+C:\Users\Eric\source\repos\SodokuSolver\SodokuSolver\obj\Debug\net6.0\ref\SodokuSolver.dll
